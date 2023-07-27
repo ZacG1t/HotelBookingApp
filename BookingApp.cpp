@@ -4,7 +4,7 @@
 using namespace std;
 
 /*
-Structure is used to help organise and store guest data. 
+Structure is used to help organise and store guest data. hi
 */
 struct Guest {
 	int No = 1;
